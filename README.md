@@ -1,6 +1,6 @@
 # Escribo Teste Técnico 01
 ## Descrição
- O teste consiste em implementar uma função que recebe um número inteiro e positivo e retorna o somatório de todos os valores inteiros divisíveis por 3 ou 5 que sejam intefiores ao número recebido.
+ O teste consiste em implementar uma função que recebe um número inteiro e positivo que retorna o somatório de todos os valores inteiros divisíveis por 3 ou 5 que sejam inferiores ao número recebido.
 
  ### Pré-requisitos
  Antes de começar, você vai precisar ter instalado o [Git](https://git-scm.com) e o [Dart](https://dart.dev/)
